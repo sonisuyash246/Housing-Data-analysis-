@@ -5,5 +5,5 @@ At the very first step, we have to read the dataset and do missing data treatmbe
 After that, we have to go and remove all the unwanted things from the data and ultimately drop the data which is not relevant.
 Once these steps of missing data treatment are done you have to start with preprocessing and Exploratory Data Analysis to make the model ready
 After the EDA you have to go for regularization to check the overfitting and underfitting of the model to get the best.
-If the model gives best results in terms of test error and tarin error we can go for the pridiction of the model and give the final prediction.
+If the model gives best results in terms of test error and tarin error we can go for the prediction of the model and give the final prediction.
 At the step we will extarct the file on required type for further analysis.
